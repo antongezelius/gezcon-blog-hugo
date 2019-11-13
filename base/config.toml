@@ -1,4 +1,4 @@
-baseurl = "http://upbeat-lumiere-b55c56.netlify.com/"
+baseurl = "www.gezeliusconsulting.se"
 title = "Gezelius Consulting"
 
 theme = "hugo-coder"
