@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gezelius Consulting</title>
-    <link>http://www.gezeliusconsulting.se/</link>
+    <link>https://www.gezeliusconsulting.se/</link>
     <description>Recent content on Gezelius Consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Nov 2019 11:36:55 +0100</lastBuildDate>
     
-	<atom:link href="http://www.gezeliusconsulting.se/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gezeliusconsulting.se/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.gezeliusconsulting.se/about/</link>
+      <link>https://www.gezeliusconsulting.se/about/</link>
       <pubDate>Tue, 05 Nov 2019 11:36:55 +0100</pubDate>
       
-      <guid>http://www.gezeliusconsulting.se/about/</guid>
+      <guid>https://www.gezeliusconsulting.se/about/</guid>
       <description>Gezelius Consulting is founded by me, Anton Gezelius. I&amp;rsquo;m a digital analyst specialized in data collection and analysis, mainly using tools like:
  Google Analytics (360) Google Analytics for Firebase Google Tag Manager Google BigQuery and R (for analysis and reporting). Google Optimize (360)  Interests involves the entire digital analytics sphere, from technical implementation, analysis and conversion optimization to project management and education. I operate in Stockholm, Sweden. If you are looking for digital analytics expertise, don&amp;rsquo;t hesitate to contact me.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.gezeliusconsulting.se/contact/</link>
+      <link>https://www.gezeliusconsulting.se/contact/</link>
       <pubDate>Tue, 05 Nov 2019 11:36:55 +0100</pubDate>
       
-      <guid>http://www.gezeliusconsulting.se/contact/</guid>
+      <guid>https://www.gezeliusconsulting.se/contact/</guid>
       <description>If you wan&amp;rsquo;t to contact me for any reason, don&amp;rsquo;t hesitate! Email me at antongezelius1@gmail.com or call me on +46722130205</description>
     </item>
     
     <item>
       <title>Useful SQL techniques for Firebase Analytics data in BigQuery</title>
-      <link>http://www.gezeliusconsulting.se/posts/useful-sql-techniques-for-firebase-analytics-data-in-biqquery/</link>
+      <link>https://www.gezeliusconsulting.se/posts/useful-sql-techniques-for-firebase-analytics-data-in-biqquery/</link>
       <pubDate>Tue, 05 Nov 2019 11:25:21 +0100</pubDate>
       
-      <guid>http://www.gezeliusconsulting.se/posts/useful-sql-techniques-for-firebase-analytics-data-in-biqquery/</guid>
+      <guid>https://www.gezeliusconsulting.se/posts/useful-sql-techniques-for-firebase-analytics-data-in-biqquery/</guid>
       <description>Google Analytics is great at giving us aggregated reports of how our users are behaving in our digital platforms. But as soon as you leave the report world, and wan&amp;rsquo;t to make in-depth analysis, you&amp;rsquo;ll find it blunt.
 More coming soon&amp;hellip;
 console.log(&#34;custom javascript man&#34;);  </description>
