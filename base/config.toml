@@ -1,4 +1,4 @@
-baseurl = "www.gezeliusconsulting.se/"
+baseurl = "http://www.gezeliusconsulting.se/"
 title = "Gezelius Consulting"
 
 theme = "hugo-coder"
