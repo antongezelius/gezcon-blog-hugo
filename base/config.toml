@@ -1,4 +1,4 @@
-baseurl = "http://www.gezeliusconsulting.se/"
+baseurl = "https://gezelius-consulting.firebaseapp.com/"
 title = "Gezelius Consulting"
 
 theme = "hugo-coder"

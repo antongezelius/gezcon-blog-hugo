@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on Gezelius Consulting</title>
+    <link>http://www.gezeliusconsulting.se/tags/sql/</link>
+    <description>Recent content in sql on Gezelius Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Nov 2019 11:25:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.gezeliusconsulting.se/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Useful SQL techniques for Firebase Analytics data in BigQuery</title>
+      <link>http://www.gezeliusconsulting.se/posts/useful-sql-techniques-for-firebase-analytics-data-in-biqquery/</link>
+      <pubDate>Tue, 05 Nov 2019 11:25:21 +0100</pubDate>
+      
+      <guid>http://www.gezeliusconsulting.se/posts/useful-sql-techniques-for-firebase-analytics-data-in-biqquery/</guid>
+      <description>Google Analytics is great at giving us aggregated reports of how our users are behaving in our digital platforms. But as soon as you leave the report world, and wan&amp;rsquo;t to make in-depth analysis, you&amp;rsquo;ll find it blunt.
+More coming soon&amp;hellip;
+console.log(&#34;custom javascript man&#34;);  </description>
+    </item>
+    
+  </channel>
+</rss>
