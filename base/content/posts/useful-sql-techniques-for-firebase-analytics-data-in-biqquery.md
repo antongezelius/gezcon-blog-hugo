@@ -8,12 +8,9 @@ tags = ["bigquery", "googleanalytics", "sql"]
 categories = []
 externalLink = ""
 series = []
+disqus = false
 +++
 
 Google Analytics is great at giving us aggregated reports of how our users are behaving in our digital platforms. But as soon as you leave the report world, and wan't to make in-depth analysis, you'll find it blunt. 
 
 More coming soon...
-
-<script type="text/javascript">
-	console.log("custom javascript man");
-</script> 

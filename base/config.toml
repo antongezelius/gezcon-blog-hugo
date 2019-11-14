@@ -17,11 +17,13 @@ disqusShortname = "antgez"
 
 [params]
     author = "Anton Gezelius"
+    companyname = "Gezelius Consulting AB"
     description = "Gezelius Consulting - Digital Analytics Expertise, Stockholm, Sweden"
     keywords = "google analytics, digital,analytics, firebase analytics"
-    info = "Digital Analytics Expert"
+    info = "Analytics | Data Collection | Optimization"
+    subtext = "I'm a freelance digital analytics consultant operating in Stockholm, Sweden."
     avatarurl = "img/avatar_small.jpg"
-    footercontent = "Gezelius Consulting AB | Org: 55XXXXXXXX | Stockholm, Sweden"
+    # footercontent = "Org: 55XXXXXXXX"
 
     dateformat = "January 2, 2006"
 
@@ -40,7 +42,7 @@ disqusShortname = "antgez"
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = []
+    custom_css = ["css/customstyling.css"]
     
     # Custom JS
     custom_js = []
